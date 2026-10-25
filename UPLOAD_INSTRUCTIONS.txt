@@ -1,0 +1,25 @@
+WEEK 3 GITHUB UPLOAD — FLAT FILES
+
+Repository name:
+yuvaintern-week3-logistics-data-analysis
+
+Repository description:
+Week 3 logistics EDA and visualization using Python, Pandas, NumPy, and Matplotlib with a simulated dataset, summary statistics, regional comparisons, and charts.
+
+Upload these individual files (do not upload the ZIP itself):
+- README.md
+- week3_eda_visualization.py
+- week3_logistics_eda_simulated.csv
+- requirements.txt
+- chart_delivery_time_distribution.png
+- chart_distance_vs_cost.png
+- chart_region_delivery.png
+- chart_correlation_matrix.png
+
+Steps:
+1. Create a new public repository using the name above.
+2. Click Add file > Upload files.
+3. Select the eight files listed above from this folder.
+4. Click Commit changes.
+
+Dataset note: the data is simulated for education, not real company data.
